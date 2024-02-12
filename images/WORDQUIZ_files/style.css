@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    border-bottom: 1px solid rgb(160, 160, 160);
+    line-height: 2;
+}
+.input-element{
+    width: 60px;
+    height: 60px;
+    border: 1px solid rgb(129, 127, 127);
+}
